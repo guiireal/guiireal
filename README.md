@@ -1,15 +1,14 @@
 ## Hello World!
 
-Ten years of experience.
-Technology enthusiast.
-Database Technologist.
+Ten years of experience.<br/>
+Technology enthusiast.<br/>
+Database Technologist.<br/>
  
-Experience in ERP systems, Web and Mobile Applications;
+Experience in ERP systems, Web and Mobile Applications;<br/>
 Experience in systems integration;
 
 ### Systems Analysis
 Requirements gathering and analysis of the client's business, in search of solutions to solve problems through tools and software.
-
 Elaboration of the scope of new solutions (functional / non-functional requirements)
 
 ### Development
@@ -18,18 +17,18 @@ Development and customization of websites, web systems and mobile apps.
 Working on small and medium scale projects. (from 10 users to 50 thousand active users)
 
 ### Skills
-{Front end} 💻
+{Front end} 💻<br/>
 HTML and CSS (FlexBox Layout / Grid Layout / Bootstrap / Material Design / Sass / Tailwindcss);
 Javascript (ES6 / JQuery / ReactJS / Redux / Styled Components / Nextjs).
 
-{Back end} 🖥️
+{Back end} 🖥️<br/>
 PHP (Laravel / Lumen / Slim Framework / Doctrine / Eloquent);
 Javascript (Node.js / Express.js / AdonisJS / NestJS / Sequelize / Mongoose / Knex / Typescript / Typeorm / Prism).
 
-{Mobile} 📲
+{Mobile} 📲<br/>
 Android (React Native / Expo);
 
-{API} 🛠️
+{API} 🛠️<br/>
 REST / SOAP;
 Swagger;
 OAuth2 (Google / Facebook / Twitter / Instagram);
@@ -37,38 +36,38 @@ Payment Gateways (Pagseguro / Itaú Shopline / PayPal / Pagar.me);
 Authentication (Email / SMS / JWT / Passport);
 Second copy of slips (Bradesco / Itaú).
 
-{Tests}   
+{Tests} 🧪<br/>
 Jest;
 Selenium;
 PHPUnit (Unitary / Integration).
 
-{Version Control} ♻
+{Version Control} ♻<br/>
 Git (Github).
 
-{Methodologies} 🔖
+{Methodologies} 🔖<br/>
 Good practices (SOLID / TDD);
 Development (Extreme Programming).
 
-{Agile Infrastructure} 🐳⚡
+{Agile Infrastructure} 🐳⚡<br/>
 Docker;
 CI & CD (Heroku / Vercel / Github Web Hooks).
 
-{Traditional Infrastructure} 🌐
+{Traditional Infrastructure} 🌐<br/>
 Windows Server / Linux Ubuntu;
 Web Servers (Apache / IIS);
 Panels (cPanel);
 Firewall.
 
-{Database} 🏦🎲
+{Database} 🏦🎲<br/>
 SQL Server (T-SQL / Optimization and Performance / Integration Services);
 MySQL;
 PostgreSQL;
 MongoDB
 
-{Data Migration} 🎲➡️🎲
+{Data Migration} 🎲➡️🎲<br/>
 Migration of data from different sources (case study, data collection, elaboration of extraction algorithms using ETL scripts and tools, tests and documentation).
 
-{Business Intelligence} 📈📊👔
+{Business Intelligence} 📈📊👔<br/>
 Interview with the client; Metrics and dimension/indicator matrix;
 Construction of DataWarehouses; ETL routines; Data Mining; KDD; Construction of OLAP Cubes; Data Visualization with Power BI / Own Front end.
 
