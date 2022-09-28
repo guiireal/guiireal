@@ -8,9 +8,10 @@ My name is Guilherme, nice to meet you!
 - Technology enthusiast.
 
 ### Experience
-- ERP systems.
-- Mobile apps.
 - Web apps.
+- Mobile apps.
+- System integrations.
+- ERP systems.
 - Desktop apps.
 
 ### Systems Analysis
