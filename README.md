@@ -8,10 +8,10 @@ My name is Guilherme, nice to meet you!
 - Technology enthusiast.
 
 ### Experience
-- ERP systems;
-- Mobile apps;
-- Web apps;
-- Desktop apps;
+- ERP systems.
+- Mobile apps.
+- Web apps.
+- Desktop apps.
 
 ### Systems Analysis
 - Requirements gathering and analysis of the client's business, in search of solutions to solve problems through tools and software.
@@ -19,7 +19,7 @@ My name is Guilherme, nice to meet you!
 
 ### Development
 - Development and customization of websites, web systems and mobile apps.
-- Working on small and medium scale projects. (from 10 users to 50 thousand active users)
+- Working on small and medium scale projects. (from 10 users to 50 thousand active users).
 
 ### Skills
 - {Front end} 💻<br/>
