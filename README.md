@@ -2,11 +2,11 @@
 
 My name is Guilherme, nice to meet you!
 
-- Ten years of experience.
-- Technology enthusiast.
-- Fullstack developer.
+- Ten years of technology experience.
+- Software engineer.
 - Database technologist.
- 
+- Technology enthusiast.
+
 ### Experience
 - ERP systems;
 - Mobile apps;
