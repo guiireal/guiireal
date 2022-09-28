@@ -1,74 +1,79 @@
 ## Hello World!
 
-Ten years of experience.<br/>
-Technology enthusiast.<br/>
-Database Technologist.<br/>
+My name is Guilherme, nice to meet you!
+
+- Ten years of experience.
+- Technology enthusiast.
+- Fullstack developer.
+- Database technologist.
  
-Experience in ERP systems, Web and Mobile Applications;<br/>
-Experience in systems integration;
+### Experience
+- ERP systems;
+- Mobile apps;
+- Web apps;
+- Desktop apps;
 
 ### Systems Analysis
-Requirements gathering and analysis of the client's business, in search of solutions to solve problems through tools and software.
-Elaboration of the scope of new solutions (functional / non-functional requirements)
+- Requirements gathering and analysis of the client's business, in search of solutions to solve problems through tools and software.
+- Elaboration of the scope of new solutions (functional / non-functional requirements)
 
 ### Development
-Development and customization of websites, web systems and mobile apps.
-
-Working on small and medium scale projects. (from 10 users to 50 thousand active users)
+- Development and customization of websites, web systems and mobile apps.
+- Working on small and medium scale projects. (from 10 users to 50 thousand active users)
 
 ### Skills
-{Front end} 💻<br/>
-HTML and CSS (FlexBox Layout / Grid Layout / Bootstrap / Material Design / Sass / Tailwindcss);
+- {Front end} 💻<br/>
+HTML and CSS (FlexBox Layout / Grid Layout / Bootstrap / Material Design / Sass / Tailwindcss);<br/>
 Javascript (ES6 / JQuery / ReactJS / Redux / Styled Components / Nextjs).
 
-{Back end} 🖥️<br/>
-PHP (Laravel / Lumen / Slim Framework / Doctrine / Eloquent);
+- {Back end} 🖥️<br/>
+PHP (Laravel / Lumen / Slim Framework / Doctrine / Eloquent);<br/>
 Javascript (Node.js / Express.js / AdonisJS / NestJS / Sequelize / Mongoose / Knex / Typescript / Typeorm / Prism).
 
-{Mobile} 📲<br/>
-Android (React Native / Expo);
+- {Mobile} 📲<br/>
+Android (React Native / Expo).
 
-{API} 🛠️<br/>
-REST / SOAP;
-Swagger;
-OAuth2 (Google / Facebook / Twitter / Instagram);
-Payment Gateways (Pagseguro / Itaú Shopline / PayPal / Pagar.me);
-Authentication (Email / SMS / JWT / Passport);
+- {API} 🛠️<br/>
+REST / SOAP;<br/>
+Swagger;<br/>
+OAuth2 (Google / Facebook / Twitter / Instagram);<br/>
+Payment Gateways (Pagseguro / Itaú Shopline / PayPal / Pagar.me);<br/>
+Authentication (Email / SMS / JWT / Passport);<br/>
 Second copy of slips (Bradesco / Itaú).
 
-{Tests} 🧪<br/>
-Jest;
-Selenium;
+- {Tests} 🧪
+Jest;<br/>
+Selenium;<br/>
 PHPUnit (Unitary / Integration).
 
-{Version Control} ♻<br/>
+- {Version Control} ♻<br/>
 Git (Github).
 
-{Methodologies} 🔖<br/>
-Good practices (SOLID / TDD);
+- {Methodologies} 🔖<br/>
+Good practices (SOLID / TDD);<br/>
 Development (Extreme Programming).
 
-{Agile Infrastructure} 🐳⚡<br/>
-Docker;
+- {Agile Infrastructure} 🐳⚡<br/>
+Docker;<br/>
 CI & CD (Heroku / Vercel / Github Web Hooks).
 
-{Traditional Infrastructure} 🌐<br/>
-Windows Server / Linux Ubuntu;
-Web Servers (Apache / IIS);
-Panels (cPanel);
+- {Traditional Infrastructure} 🌐<br/>
+Windows Server / Linux Ubuntu;<br/>
+Web Servers (Apache / IIS);<br/>
+Panels (cPanel);<br/>
 Firewall.
 
-{Database} 🏦🎲<br/>
-SQL Server (T-SQL / Optimization and Performance / Integration Services);
-MySQL;
-PostgreSQL;
-MongoDB
+- {Database} 🏦🎲<br/>
+SQL Server (T-SQL / Optimization and Performance / Integration Services);<br/>
+MySQL;<br/>
+PostgreSQL;<br/>
+MongoDB.
 
-{Data Migration} 🎲➡️🎲<br/>
+- {Data Migration} 🎲➡️🎲<br/>
 Migration of data from different sources (case study, data collection, elaboration of extraction algorithms using ETL scripts and tools, tests and documentation).
 
-{Business Intelligence} 📈📊👔<br/>
-Interview with the client; Metrics and dimension/indicator matrix;
+- {Business Intelligence} 📈📊👔<br/>
+Interview with the client; Metrics and dimension/indicator matrix;<br/>
 Construction of DataWarehouses; ETL routines; Data Mining; KDD; Construction of OLAP Cubes; Data Visualization with Power BI / Own Front end.
 
 <div>
