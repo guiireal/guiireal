@@ -20,7 +20,7 @@ My name is Guilherme, nice to meet you!
 
 ### Development
 - Development and customization of websites, web systems and mobile apps.
-- Working on small and medium scale projects. (from 10 users to 50 thousand active users).
+- Working on small and medium scale projects (from 10 users to 50 thousand active users).
 
 ### Skills
 - {Front end} 💻<br/>
