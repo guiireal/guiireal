@@ -42,7 +42,7 @@ Payment Gateways (Pagseguro / Itaú Shopline / PayPal / Pagar.me);<br/>
 Authentication (Email / SMS / JWT / Passport);<br/>
 Second copy of slips (Bradesco / Itaú).
 
-- {Tests} 🧪
+- {Tests} 🧪<br/>
 Jest;<br/>
 Selenium;<br/>
 PHPUnit (Unitary / Integration).
