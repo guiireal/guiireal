@@ -28,8 +28,8 @@ HTML and CSS (FlexBox Layout / Grid Layout / Bootstrap / Material Design / Sass 
 Javascript (ES6 / JQuery / ReactJS / Redux / Styled Components / Nextjs).
 
 - {Back end} 🖥️<br/>
-PHP (Laravel / Lumen / Slim Framework / Doctrine / Eloquent);<br/>
-Javascript (Node.js / Express.js / AdonisJS / NestJS / Sequelize / Mongoose / Knex / Typescript / Typeorm / Prism).
+PHP (Laravel / Slim Framework / Doctrine / Eloquent);<br/>
+Javascript (Node.js / Express.js / AdonisJS / NestJS / Sequelize / Mongoose / Knex / Typescript / Typeorm / Prisma).
 
 - {Mobile} 📲<br/>
 Android (React Native / Expo).
