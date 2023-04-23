@@ -1,8 +1,10 @@
-## Hello World!
+## 🌎 Hello World!
 
 My name is Guilherme, nice to meet you!
 
-- Ten years of technology experience.
+I'm from Brazil 🇧🇷
+
+- 10 years of technology experience.
 - Software engineer.
 - Database technologist.
 - Technology enthusiast.
