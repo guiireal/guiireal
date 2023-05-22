@@ -118,11 +118,11 @@ I'm from Brazil 🇧🇷
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
-### Data Migration} 🎲➡️🎲
+### Data Migration 🎲➡️🎲
 <br/>
 Migration of data from different sources (case study, data collection, elaboration of extraction algorithms using ETL scripts and tools, tests and documentation).
 
-### Business Intelligence} 📈📊👔
+### Business Intelligence 📈📊👔
 <br/>
 Interview with the client; Metrics and dimension/indicator matrix;<br/>
 Construction of DataWarehouses; ETL routines; Data Mining; KDD; Construction of OLAP Cubes; Data Visualization with Power BI / Own Front end.
