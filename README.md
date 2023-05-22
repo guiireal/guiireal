@@ -1,4 +1,4 @@
-## 🌎 Hello World!
+# 🌎 Hello World!
 
 My name is Guilherme, nice to meet you!
 
@@ -16,45 +16,74 @@ I'm from Brazil 🇧🇷
 - Database technologist.
 - Technology enthusiast.
 
-### Experience
+## Experience
 - Web apps.
 - Mobile apps.
 - System integrations.
 - ERP systems.
 - Desktop apps.
 
-### Systems Analysis
+## Systems Analysis
 - Requirements gathering and analysis of the client's business, in search of solutions to solve problems through tools and software.
 - Elaboration of the scope of new solutions (functional / non-functional requirements)
 
-### Development
+## Development
 - Development and customization of websites, web systems and mobile apps.
 - Working on small and medium scale projects (from 10 users to 50 thousand active users).
 
-### Skills
-- {Front end} 💻<br/>
-HTML and CSS (FlexBox Layout / Grid Layout / Bootstrap / Material Design / Sass / Tailwindcss);<br/>
-Javascript (ES6 / JQuery / ReactJS / Redux / Styled Components / Nextjs).
+## Skills
 
-- {Back end} 🖥️<br/>
-PHP (Laravel / Slim Framework / Doctrine / Eloquent);<br/>
-Javascript (Node.js / Express.js / AdonisJS / NestJS / Sequelize / Mongoose / Knex / Typescript / Typeorm / Prisma).
+### Front-end
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white" alt="Javascript"/>
+  <img src="https://img.shields.io/badge/Bootstrrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwindcss"/>
+  <img src="https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=white" alt="JQuery"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Styled Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components"/>
+  <img src="https://img.shields.io/badge/NextJS-000000?logo=nextdotjs&logoColor=white" alt="NextJS"/>
+  <img src="https://img.shields.io/badge/React Query-FF4154?logo=reactquery&logoColor=white" alt="React Query"/>
+</div>
 
-- {Mobile} 📲<br/>
-Android (React Native / Expo).
+### Back-end
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white" alt="Typescript"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/AdonisJS-5A45FF?logo=adonisjs&logoColor=white" alt="AdonisJS"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white" alt="Sequelize"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" alt="Mongoose"/>
+  <img src="https://img.shields.io/badge/Knex-D26B38?logoColor=white" alt="Knex"/>
+  <img src="https://img.shields.io/badge/TypeORM-E83524?logoColor=white" alt="TypeORM"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
+</div>
 
-- {API} 🛠️<br/>
-REST / SOAP;<br/>
-Swagger;<br/>
-OAuth2 (Google / Facebook / Twitter / Instagram);<br/>
-Payment Gateways (Pagseguro / Itaú Shopline / PayPal / Pagar.me);<br/>
-Authentication (Email / SMS / JWT / Passport);<br/>
-Second copy of slips (Bradesco / Itaú).
+### Mobile
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=white" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" alt="Expo"/>
+</div>
 
-- {Tests} 🧪<br/>
-Jest;<br/>
-Selenium;<br/>
-PHPUnit (Unitary / Integration).
+### API
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/REST-E6484F?logoColor=white" alt="REST"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white" alt="Swagger"/>
+</div>
+
+### Test
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/PHP Unit-777BB4?logoColor=white" alt="PHP Unit"/>
+  <img src="https://img.shields.io/badge/Pest-EF2D5E?logoColor=white" alt="Pest"/>
+</div>
 
 - {Version Control} ♻<br/>
 Git (Github).
