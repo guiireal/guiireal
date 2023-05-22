@@ -2,6 +2,13 @@
 
 My name is Guilherme, nice to meet you!
 
+<a href="https://github.com/guiireal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+<a href="https://guiireal.com"><img src="https://img.shields.io/badge/Portfolio-4299f0?style=for-the-badge&logo=files&logoColor=white" alt="Portifólio"></a>
+<a href="https://t.me/guiireal" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://www.youtube.com/@aldebarandev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+
+<br />
+
 I'm from Brazil 🇧🇷
 
 - 10 years of technology experience.
@@ -98,18 +105,4 @@ Construction of DataWarehouses; ETL routines; Data Mining; KDD; Construction of 
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-</div>
-
-##
-
-<div>
-    <a href="https://t.me/guiireal" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/guiireal/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="mailto:guilherme_tecnologia@outlook.com" target="_blank">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-    </a>
 </div>
