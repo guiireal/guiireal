@@ -119,13 +119,13 @@ I'm from Brazil 🇧🇷
 </div>
 
 ### Data Migration 🎲➡️🎲
-<br/>
 Migration of data from different sources (case study, data collection, elaboration of extraction algorithms using ETL scripts and tools, tests and documentation).
 
 ### Business Intelligence 📈📊👔
-<br/>
 Interview with the client; Metrics and dimension/indicator matrix;<br/>
 Construction of DataWarehouses; ETL routines; Data Mining; KDD; Construction of OLAP Cubes; Data Visualization with Power BI / Own Front end.
+
+<br />
 
 <div>
     <a href="https://github.com/guiireal">
