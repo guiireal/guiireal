@@ -85,28 +85,38 @@ I'm from Brazil 🇧🇷
   <img src="https://img.shields.io/badge/Pest-EF2D5E?logoColor=white" alt="Pest"/>
 </div>
 
-- {Version Control} ♻<br/>
-Git (Github).
+### Version Control
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
+</div>
 
-- {Methodologies} 🔖<br/>
-Good practices (SOLID / TDD);<br/>
-Development (Extreme Programming).
+### Code Style
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/TDD-2088FF?logoColor=white" alt="TDD"/>
+  <img src="https://img.shields.io/badge/DDD-FC6D26?logoColor=white" alt="DDD"/>
+  <img src="https://img.shields.io/badge/Extreme Programming-83B81A?logoColor=white" alt="Extreme Programming"/>
+  <img src="https://img.shields.io/badge/SOLID-FF9A00?logoColor=white" alt="SOLID"/>
+</div>
 
-- {Agile Infrastructure} 🐳⚡<br/>
-Docker;<br/>
-CI & CD (Heroku / Vercel / Github Web Hooks).
+### Infra
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Windows Server-0078D6?logo=windows&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"/>
+</div>
 
-- {Traditional Infrastructure} 🌐<br/>
-Windows Server / Linux Ubuntu;<br/>
-Web Servers (Apache / IIS);<br/>
-Panels (cPanel);<br/>
-Firewall.
-
-- {Database} 🏦🎲<br/>
-SQL Server (T-SQL / Optimization and Performance / Integration Services);<br/>
-MySQL;<br/>
-PostgreSQL;<br/>
-MongoDB.
+### Database
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+</div>
 
 - {Data Migration} 🎲➡️🎲<br/>
 Migration of data from different sources (case study, data collection, elaboration of extraction algorithms using ETL scripts and tools, tests and documentation).
