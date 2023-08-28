@@ -121,11 +121,3 @@ Migration of data from different sources (case study, data collection, elaborati
 ### Business Intelligence 📈📊👔
 Interview with the client; Metrics and dimension/indicator matrix;<br/>
 Construction of DataWarehouses; ETL routines; Data Mining; KDD; Construction of OLAP Cubes; Data Visualization with Power BI / Own Front end.
-
-<br />
-
-<div>
-    <a href="https://github.com/guiireal">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiireal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiireal&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
