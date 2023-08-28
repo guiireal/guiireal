@@ -3,7 +3,6 @@
 My name is Guilherme, nice to meet you!
 
 <a href="https://github.com/guiireal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
-<a href="https://t.me/guiireal"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://youtube.com/@aldebarandev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 <br />
