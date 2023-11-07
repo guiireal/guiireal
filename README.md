@@ -37,7 +37,7 @@ I'm from Brazil 🇧🇷
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwindcss"/>
   <img src="https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=white" alt="JQuery"/>
-  <img src="https://img.shields.io/badge/React JS-61DAFB?logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Styled Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components"/>
   <img src="https://img.shields.io/badge/NextJS-000000?logo=nextdotjs&logoColor=white" alt="NextJS"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?logo=reactquery&logoColor=white" alt="React Query"/>
