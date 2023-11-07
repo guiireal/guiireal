@@ -39,7 +39,7 @@ I'm from Brazil 🇧🇷
   <img src="https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=white" alt="JQuery"/>
   <img src="https://img.shields.io/badge/React JS-61DAFB?logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Styled Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components"/>
-  <img src="https://img.shields.io/badge/NextJS-000000?logo=nextdotjs&logoColor=white" alt="NextJS"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="NextJS"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?logo=reactquery&logoColor=white" alt="React Query"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white" alt="Nuxt.js"/>
