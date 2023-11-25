@@ -35,7 +35,7 @@ I'm from Brazil 🇧🇷
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white" alt="Javascript"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwindcss"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=white" alt="JQuery"/>
   <img src="https://img.shields.io/badge/React JS-61DAFB?logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Styled Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components"/>
@@ -59,19 +59,21 @@ I'm from Brazil 🇧🇷
   <img src="https://img.shields.io/badge/Knex-D26B38?logoColor=white" alt="Knex"/>
   <img src="https://img.shields.io/badge/TypeORM-E83524?logoColor=white" alt="TypeORM"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart"/>
 </div>
 
 ### Mobile
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=white" alt="React Native"/>
   <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
 </div>
 
 ### API
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/REST-E6484F?logoColor=white" alt="REST"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white" alt="Swagger"/>
-  <img src="https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white" alt="Auth0"/>
 </div>
 
 ### Test
