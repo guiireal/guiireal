@@ -1,10 +1,10 @@
-Engenheiro de software e especialista em banco de dados com 10 anos de experiência em desenvolvimento web, análise de sistemas e análise dados. 
+Engenheiro de software e analista de sistemas com 10 anos de experiência em desenvolvimento web, análise de sistemas, análise dados e plataformas SAAS. 
 
-Trabalho em projetos de pequeno e médio porte, com aplicações web, integração entre sistemas e ERPs.
+Trabalho como desenvolvedor em projetos de pequeno e médio porte, com aplicações web, integração entre sistemas e ERPs.
 
-Lidero um time de 4 desenvolvedores, trabalhando com metodologias ágeis e utilizando o máximo do potencial da equipe, nas áreas onde cada um tem mais aptidão.
+Lidero um time de 4 desenvolvedores, trabalhando com metodologias ágeis.
 
-Portfólio onde você pode ver alguns dos meus projetos mais recentes: https://guiireal.com
+Portfólio: https://guiireal.com
 
 ## Skills
 
