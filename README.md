@@ -1,30 +1,10 @@
-# 🌎 Hello World!
+Engenheiro de software e especialista em banco de dados com 10 anos de experiência em desenvolvimento web, análise de sistemas e análise dados. 
 
-My name is Guilherme, nice to meet you!
+Trabalho em projetos de pequeno e médio porte, com aplicações web, integração entre sistemas e ERPs.
 
-<br />
+Lidero um time de 4 desenvolvedores, trabalhando com metodologias ágeis e utilizando o máximo do potencial da equipe, nas áreas onde cada um tem mais aptidão.
 
-I'm from Brazil 🇧🇷
-
-- 10 years of technology experience.
-- Software engineer.
-- Database technologist.
-- Technology enthusiast.
-
-## Experience
-- Web apps.
-- Mobile apps.
-- System integrations.
-- ERP systems.
-- Desktop apps.
-
-## Systems Analysis
-- Requirements gathering and analysis of the client's business, in search of solutions to solve problems through tools and software.
-- Elaboration of the scope of new solutions (functional / non-functional requirements)
-
-## Development
-- Development and customization of websites, web systems and mobile apps.
-- Working on small and medium scale projects (from 10 users to 50 thousand active users).
+Portfólio onde você pode ver alguns dos meus projetos mais recentes: https://guiireal.com
 
 ## Skills
 
