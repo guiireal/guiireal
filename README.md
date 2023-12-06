@@ -17,10 +17,6 @@ Portfólio onde você pode ver alguns dos meus projetos mais recentes: https://g
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=white" alt="JQuery"/>
-  <img src="https://img.shields.io/badge/React JS-61DAFB?logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Styled Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="NextJS"/>
-  <img src="https://img.shields.io/badge/React Query-FF4154?logo=reactquery&logoColor=white" alt="React Query"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white" alt="Nuxt.js"/>
 </div>
@@ -44,8 +40,6 @@ Portfólio onde você pode ver alguns dos meus projetos mais recentes: https://g
 
 ### Mobile
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=white" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" alt="Expo"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
 </div>
 
@@ -96,10 +90,3 @@ Portfólio onde você pode ver alguns dos meus projetos mais recentes: https://g
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
-
-### Data Migration 🎲➡️🎲
-Migration of data from different sources (case study, data collection, elaboration of extraction algorithms using ETL scripts and tools, tests and documentation).
-
-### Business Intelligence 📈📊👔
-Interview with the client; Metrics and dimension/indicator matrix;<br/>
-Construction of DataWarehouses; ETL routines; Data Mining; KDD; Construction of OLAP Cubes; Data Visualization with Power BI / Own Front end.
