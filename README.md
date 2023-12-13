@@ -93,5 +93,5 @@ Portfólio: https://guiireal.com
 
 <br/>
 
-<img height="250rem" src="https://github-readme-stats.vercel.app/api?username=guiireal&count_private=true&show_icons=true&theme=react" alt="guiireal github stats"/>
-<img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiireal&count_private=true&show_icons=true&theme=react&layout=compact&langs_count=12" alt="guiireal github stats"/>
+<img height="200rem" src="https://github-readme-stats.vercel.app/api?username=guiireal&count_private=true&show_icons=true&theme=react" alt="guiireal github stats"/>
+<img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiireal&count_private=true&show_icons=true&theme=react&layout=compact&langs_count=6" alt="guiireal github stats"/>
