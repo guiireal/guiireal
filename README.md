@@ -90,3 +90,6 @@ Portfólio: https://guiireal.com
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
+
+<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=guiireal&count_private=true&show_icons=true&theme=react" alt="guiireal github stats"/>
+<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiireal&count_private=true&show_icons=true&theme=react&layout=compact&langs_count=12" alt="guiireal github stats"/>
