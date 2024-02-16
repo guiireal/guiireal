@@ -1,8 +1,13 @@
-Engenheiro de software e analista de sistemas com 10 anos de experiência em desenvolvimento web, análise de sistemas, análise dados e plataformas SAAS. 
+10 anos de experiência na área de TI.
 
-Trabalho como desenvolvedor em projetos de pequeno e médio porte, com aplicações web, integração entre sistemas e ERPs.
+Como engenheiro de software:
+Trabalho na concepção, arquitetura, desenvolvimento e entrega de sistemas. Seja plataformas SAAS, sistemas web, sites e aplicações mobile.
 
-Lidero um time de 4 desenvolvedores, trabalhando com metodologias ágeis.
+Como engenheiro de dados:
+Trabalho no desenvolvimento de plataformas de business intelligence próprias, desde a entrevista com cliente, elaboração de data warehouses e data marts, construção de rotinas ETL, cubos olap e dashboards/gráficos com bibliotecas open-source ou Power BI.
+
+Como líder técnico: 
+Lidero um time de 4 desenvolvedores, trabalhando com metodologias ágeis (scrum e xp), realizando code-reviews constantes e apoiando os supervisores em decisões técnicas.
 
 Portfólio: https://guiireal.com
 
