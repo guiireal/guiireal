@@ -11,6 +11,8 @@ Lidero um time de 4 desenvolvedores, trabalhando com metodologias ágeis (scrum 
 
 Portfólio: https://guiireal.com
 
+<hr>
+
 ## Skills
 
 ### Front-end
