@@ -37,6 +37,7 @@ Portfólio: https://guiireal.com
   <img src="https://img.shields.io/badge/Knex-D26B38?logoColor=white" alt="Knex"/>
   <img src="https://img.shields.io/badge/TypeORM-E83524?logoColor=white" alt="TypeORM"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart"/>
 </div>
 
