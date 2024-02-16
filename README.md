@@ -68,21 +68,27 @@ Portfólio: https://guiireal.com
   <img src="https://img.shields.io/badge/Pest-EF2D5E?logoColor=white" alt="Pest"/>
 </div>
 
-### Version Control
+### Version control
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
-### Code Style
+### Best practices
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/TDD-2088FF?logoColor=white" alt="TDD"/>
   <img src="https://img.shields.io/badge/DDD-FC6D26?logoColor=white" alt="DDD"/>
-  <img src="https://img.shields.io/badge/Extreme Programming-83B81A?logoColor=white" alt="Extreme Programming"/>
   <img src="https://img.shields.io/badge/SOLID-FF9A00?logoColor=white" alt="SOLID"/>
 </div>
 
-### Infra
+### Methodologies
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/Scrum-512BD4?logoColor=white" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/XP-83B81A?logoColor=white" alt="XP"/>
+</div>
+
+### infrastructure
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" alt="Heroku"/>
