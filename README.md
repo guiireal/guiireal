@@ -79,6 +79,8 @@ Portfólio: https://guiireal.com
   <img src="https://img.shields.io/badge/TDD-2088FF?logoColor=white" alt="TDD"/>
   <img src="https://img.shields.io/badge/DDD-FC6D26?logoColor=white" alt="DDD"/>
   <img src="https://img.shields.io/badge/SOLID-FF9A00?logoColor=white" alt="SOLID"/>
+  <img src="https://img.shields.io/badge/Clean Architecture-A100FFlogoColor=white" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/Clean Code-004088?logoColor=white" alt="Clean Code"/>
 </div>
 
 ### Methodologies
