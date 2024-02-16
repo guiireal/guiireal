@@ -101,7 +101,7 @@ Portfólio: https://guiireal.com
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
-<br/>
+<hr>
 
 <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=guiireal&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="guiireal github stats"/>
 <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiireal&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="guiireal github stats"/>
