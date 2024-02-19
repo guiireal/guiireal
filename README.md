@@ -1,7 +1,7 @@
 10 anos de experiência na área de TI.
 
 Como engenheiro de software:
-Trabalho no entendimento de regras de negócio, concepção, arquitetura, desenvolvimento e entrega de sistemas para resolver os mais variados tipos de problemas. Seja plataformas SAAS, sistemas web, sites e aplicações mobile.
+Trabalho no entendimento de regras de negócio, concepção, arquitetura, desenvolvimento, testes e entrega de sistemas para resolver os mais variados tipos de problemas. Seja plataformas SAAS, sistemas web, sites e aplicações mobile.
 
 Como engenheiro de dados:
 Trabalho no desenvolvimento de plataformas de business intelligence próprias, desde a entrevista com cliente, elaboração de data warehouses e data marts, construção de rotinas ETL, cubos olap e dashboards/gráficos com bibliotecas open-source ou Power BI.
