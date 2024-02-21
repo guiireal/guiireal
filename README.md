@@ -1,18 +1,12 @@
-10 anos de experiência na área de TI.
+10 years of tech experience.
 
-Como engenheiro de software/desenvolvedor:
-Entendimento de regras de negócio, concepção, arquitetura, desenvolvimento, testes e entrega de soluções digitais completas, como plataformas SAAS, sistemas web, sites e aplicativos mobile.
+As a software engineer/developer: Understanding of business rules, conception, architecture, development, testing and delivery of complete digital solutions, such as SAAS platforms, web systems, websites and mobile applications.
 
-Como analista/engenheiro de dados:
-Desenvolvimento de plataformas de business intelligence próprias, desde a entrevista com cliente, elaboração de data warehouses e data marts, construção de rotinas ETL, cubos OLAP, indicadores de performance (KPIs) e dashboards/gráficos com bibliotecas open-source ou Power BI.
-Sólida experiência em SQL, otimização e performance e projeção de bancos de dados escaláveis.
-Experiência em data-analytics, utilizando Python em conjunto com bibliotecas como Pandas, SciPy e NumPy.
+As a data analyst/engineer: Development of own business intelligence platforms, from client interview, data warehouse and data mart design, ETL routines construction, OLAP cubes, performance indicators (KPIs) and dashboards/graphics with open-source libraries or Power BI. Solid experience in SQL, optimization and performance and scalable database projection. Experience in data-analytics, using Python in conjunction with libraries such as Pandas, SciPy and NumPy.
 
-Como líder técnico: 
-Liderar equipes técnicas e ciclo de vida de sistemas, utilizando metodologias ágeis (Scrum e XP), realização de code-reviews constantes, tomar decisões estratégicas sobre o uso de tecnologias, visando custos e qualidade na entrega.
-Utilizar de comunicação técnica e não-técnica, de acordo com o perfil de cada pessoa.
+As a technical leader: Leading technical teams and systems life cycle, using agile methodologies (Scrum and XP), performing constant code-reviews, making strategic decisions about the use of technologies, aiming at costs and quality in delivery. Using technical and non-technical communication, according to the profile of each person.
 
-Portfólio: https://guiireal.com
+Portfolio: https://guiireal.com
 
 <hr>
 
