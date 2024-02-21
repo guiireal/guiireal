@@ -1,10 +1,12 @@
 10 anos de experiência na área de TI.
 
-Como engenheiro de software:
+Como engenheiro de software/desenvolvedor:
 Trabalho no entendimento de regras de negócio, concepção, arquitetura, desenvolvimento, testes e entrega de sistemas para resolver os mais variados tipos de problemas. Seja plataformas SAAS, sistemas web, sites e aplicações mobile.
 
-Como engenheiro de dados:
-Trabalho no desenvolvimento de plataformas de business intelligence próprias, desde a entrevista com cliente, elaboração de data warehouses e data marts, construção de rotinas ETL, cubos olap e dashboards/gráficos com bibliotecas open-source ou Power BI.
+Como analista/engenheiro de dados:
+Trabalho no desenvolvimento de plataformas de business intelligence próprias, desde a entrevista com cliente, elaboração de data warehouses e data marts, construção de rotinas ETL, cubos olap, indicadores de performance (KPIs) e dashboards/gráficos com bibliotecas open-source ou Power BI.
+Sólida experiência em SQL, otimização e performance e projeção de bancos de dados escaláveis.
+Experiência em data-analytics, utilizando Python em conjunto com bibliotecas como pandas, scipy e numpy.
 
 Como líder técnico: 
 Lidero um time de 4 desenvolvedores, trabalhando com metodologias ágeis (scrum e xp), realizando code-reviews constantes e apoiando os supervisores em decisões técnicas.
