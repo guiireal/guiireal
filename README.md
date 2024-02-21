@@ -4,7 +4,7 @@ As a software engineer/developer: Understanding of business rules, conception, a
 
 As a data analyst/engineer: Development of own business intelligence platforms, from client interview, data warehouse and data mart design, ETL routines construction, OLAP cubes, performance indicators (KPIs) and dashboards/graphics with open-source libraries or Power BI. Solid experience in SQL, optimization and performance and scalable database projection. Experience in data-analytics, using Python in conjunction with libraries such as Pandas, SciPy and NumPy.
 
-As a technical leader: Leading technical teams and systems life cycle, using agile methodologies (Scrum and XP), performing constant code-reviews, making strategic decisions about the use of technologies, aiming at costs and quality in delivery. Using technical and non-technical communication, according to the profile of each person.
+As a tech lead: Leading technical teams and systems life cycle, using agile methodologies (Scrum and XP), performing constant code-reviews, making strategic decisions about the use of technologies, aiming at costs and quality in delivery. Using technical and non-technical communication, according to the profile of each person.
 
 Portfolio: https://guiireal.com
 
