@@ -1,15 +1,16 @@
 10 anos de experiência na área de TI.
 
 Como engenheiro de software/desenvolvedor:
-Trabalho no entendimento de regras de negócio, concepção, arquitetura, desenvolvimento, testes e entrega de sistemas para resolver os mais variados tipos de problemas. Seja plataformas SAAS, sistemas web, sites e aplicações mobile.
+Entendimento de regras de negócio, concepção, arquitetura, desenvolvimento, testes e entrega de soluções digitais completas, como plataformas SAAS, sistemas web, sites e aplicativos mobile.
 
 Como analista/engenheiro de dados:
-Trabalho no desenvolvimento de plataformas de business intelligence próprias, desde a entrevista com cliente, elaboração de data warehouses e data marts, construção de rotinas ETL, cubos olap, indicadores de performance (KPIs) e dashboards/gráficos com bibliotecas open-source ou Power BI.
+Desenvolvimento de plataformas de business intelligence próprias, desde a entrevista com cliente, elaboração de data warehouses e data marts, construção de rotinas ETL, cubos OLAP, indicadores de performance (KPIs) e dashboards/gráficos com bibliotecas open-source ou Power BI.
 Sólida experiência em SQL, otimização e performance e projeção de bancos de dados escaláveis.
-Experiência em data-analytics, utilizando Python em conjunto com bibliotecas como pandas, scipy e numpy.
+Experiência em data-analytics, utilizando Python em conjunto com bibliotecas como Pandas, SciPy e NumPy.
 
 Como líder técnico: 
-Lidero um time de 4 desenvolvedores, trabalhando com metodologias ágeis (scrum e xp), realizando code-reviews constantes e apoiando os supervisores em decisões técnicas.
+Liderar equipes técnicas e ciclo de vida de sistemas, utilizando metodologias ágeis (scrum e xp), realização de code-reviews constantes, tomar decisões estratégicas sobre o uso de tecnologias visando custos e qualidade na entrega.
+Utilizar de comunicação técnica e não-técnica, de acordo com o perfil de cada pessoa.
 
 Portfólio: https://guiireal.com
 
