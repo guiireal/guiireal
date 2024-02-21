@@ -9,7 +9,7 @@ Sólida experiência em SQL, otimização e performance e projeção de bancos d
 Experiência em data-analytics, utilizando Python em conjunto com bibliotecas como Pandas, SciPy e NumPy.
 
 Como líder técnico: 
-Liderar equipes técnicas e ciclo de vida de sistemas, utilizando metodologias ágeis (scrum e xp), realização de code-reviews constantes, tomar decisões estratégicas sobre o uso de tecnologias visando custos e qualidade na entrega.
+Liderar equipes técnicas e ciclo de vida de sistemas, utilizando metodologias ágeis (Scrum e XP), realização de code-reviews constantes, tomar decisões estratégicas sobre o uso de tecnologias, visando custos e qualidade na entrega.
 Utilizar de comunicação técnica e não-técnica, de acordo com o perfil de cada pessoa.
 
 Portfólio: https://guiireal.com
