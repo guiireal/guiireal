@@ -1,10 +1,10 @@
-10 years of tech experience.
+With 10 years of experience in technology, I bring a comprehensive skill set across various roles:
 
-As a software engineer/developer: Understanding of business rules, conception, architecture, development, testing and delivery of complete digital solutions, such as SAAS platforms, web systems, websites and mobile applications.
+Software Engineer/Developer: Expertise in understanding business rules, conceptualization, architecture, development, testing, and delivery of complete digital solutions. This includes the creation of SaaS platforms, web systems, websites, and mobile applications.
 
-As a data analyst/engineer: Development of own business intelligence platforms, from client interview, data warehouse and data mart design, ETL routines construction, OLAP cubes, performance indicators (KPIs) and dashboards/graphics with open-source libraries or Power BI. Solid experience in SQL, optimization and performance and scalable database projection. Experience in data-analytics, using Python in conjunction with libraries such as Pandas, SciPy and NumPy.
+Data Analyst/Engineer: Proficient in developing bespoke business intelligence platforms, starting from client interviews to the design of data warehouses and data marts. Skilled in constructing ETL routines, building OLAP cubes, and creating performance indicators (KPIs) and dashboards using open-source libraries or Power BI. Strong command of SQL, database optimization, performance tuning, and designing scalable database architectures. Experienced in data analytics using Python, along with libraries such as Pandas, SciPy, and NumPy.
 
-As a tech lead: Leading technical teams and systems life cycle, using agile methodologies (Scrum and XP), performing constant code-reviews, making strategic decisions about the use of technologies, aiming at costs and quality in delivery. Using technical and non-technical communication, according to the profile of each person.
+Tech Lead: Adept at leading technical teams and managing the system life cycle through agile methodologies like Scrum and XP. Experienced in conducting thorough code reviews, making strategic technology decisions, and balancing cost with quality in delivery. Capable of adapting communication to suit both technical and non-technical audiences.
 
 Portfolio: https://guiireal.com
 
