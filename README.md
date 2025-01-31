@@ -117,8 +117,6 @@ With **10 years** of experience in technology, I bring a comprehensive skill set
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
-GitHub Profile Statistics
-
 <div align="center">
 
 ## 📊 GitHub Statistics & Metrics
