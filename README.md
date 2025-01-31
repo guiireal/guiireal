@@ -34,7 +34,7 @@ With **10 years** of experience in technology, I bring a comprehensive skill set
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black" alt="ReactJS"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
