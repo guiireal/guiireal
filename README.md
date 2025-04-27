@@ -118,8 +118,6 @@ With **10 years** of experience in technology, I bring a comprehensive skill set
 </div>
 
 <div align="center">
-
-<br/>
   
 ## 🔥 Development Metrics
 
