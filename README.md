@@ -137,7 +137,7 @@ With **10 years** of experience in technology, I bring a comprehensive skill set
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=guiireal&theme=dracula&column=7)](https://github.com/guiireal)
 
-### 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guiireal&theme=dracula)](https://github.com/guiireal)
 
