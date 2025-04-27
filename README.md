@@ -119,6 +119,8 @@ With **10 years** of experience in technology, I bring a comprehensive skill set
 
 <div align="center">
 
+<br/>
+  
 ### 🔥 Development Metrics
 
 [![Contributions](https://img.shields.io/badge/Lines%20of%20Code-1.2M-success?style=for-the-badge&logo=codecov&logoColor=white)](https://github.com/guiireal)
