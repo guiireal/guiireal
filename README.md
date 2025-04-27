@@ -121,7 +121,7 @@ With **10 years** of experience in technology, I bring a comprehensive skill set
 
 <br/>
   
-### 🔥 Development Metrics
+## 🔥 Development Metrics
 
 [![Contributions](https://img.shields.io/badge/Lines%20of%20Code-1.2M-success?style=for-the-badge&logo=codecov&logoColor=white)](https://github.com/guiireal)
 [![Coffee](https://img.shields.io/badge/Coffee%20Consumed-842%20cups-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://github.com/guiireal)
@@ -133,7 +133,7 @@ With **10 years** of experience in technology, I bring a comprehensive skill set
 [![Uptime](https://img.shields.io/badge/System%20Uptime-99.9%25-green?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/guiireal)
 [![Docs](https://img.shields.io/badge/Documentation%20Pages-384-red?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/guiireal)
 
-### 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=guiireal&theme=dracula&column=7)](https://github.com/guiireal)
 
@@ -141,7 +141,7 @@ With **10 years** of experience in technology, I bring a comprehensive skill set
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guiireal&theme=dracula)](https://github.com/guiireal)
 
-### 📈 Activity Overview
+## 📈 Activity Overview
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiireal&theme=dracula" />
 
