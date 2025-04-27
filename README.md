@@ -119,11 +119,6 @@ With **10 years** of experience in technology, I bring a comprehensive skill set
 
 <div align="center">
 
-## 📊 GitHub Statistics & Metrics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiireal&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="guiireal github stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiireal&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="guiireal github stats"/>
-
 ### 🔥 Development Metrics
 
 [![Contributions](https://img.shields.io/badge/Lines%20of%20Code-1.2M-success?style=for-the-badge&logo=codecov&logoColor=white)](https://github.com/guiireal)
