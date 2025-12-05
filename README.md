@@ -12,13 +12,38 @@
 
 </div>
 
-With **10 years** of experience in technology, I bring a comprehensive skill set across various roles:
+Portfolio: [https://devgui.dev](https://devgui.dev)
 
-🔹 **Software Engineer/Developer**: Expertise in understanding business rules, conceptualization, architecture, development, testing, and delivery of complete digital solutions. This includes the creation of SaaS platforms, web systems, websites, and mobile applications.
+I have over 10 years of experience in technology, working end-to-end across digital solution development, data engineering, and technical leadership. My career is marked by the delivery of scalable products, complex integrations, SaaS platforms, and data-driven projects.
 
-🔹 **Data Analyst/Engineer**: Proficient in developing bespoke business intelligence platforms, starting from client interviews to the design of data warehouses and data marts. Skilled in constructing ETL routines, building OLAP cubes, and creating performance indicators (KPIs) and dashboards using open-source libraries or Power BI. Strong command of SQL, database optimization, performance tuning, and designing scalable database architectures. Experienced in data analytics using Python, along with libraries such as Pandas, SciPy, and NumPy.
+Software Developer:
 
-🔹 **Tech Lead**: Adept at leading technical teams and managing the system life cycle through agile methodologies like Scrum and XP. Experienced in conducting thorough code reviews, making strategic technology decisions, and balancing cost with quality in delivery. Capable of adapting communication to suit both technical and non-technical audiences.
+Strong background in understanding business rules, designing solutions, defining architecture, development, testing, and delivery. Experienced in building:
+
+- SaaS platforms
+- Web systems and platforms
+- Integrated applications and services
+- Process automation and business-applied AI
+- Robust integrations, scalable development, and engineering best practices
+
+Data Engineer:
+
+Specialized in building custom Business Intelligence platforms. I work from initial discovery and requirements mapping all the way to full technical delivery:
+
+- Data warehouse and data mart modeling
+- ETL/ELT pipeline development
+- OLAP cube design
+- KPI creation, reporting, and dashboards
+- Performance optimization and database architecture
+
+Tech Lead:
+
+Experience leading development and data teams, ensuring strategic alignment and high-quality technical execution:
+
+- System lifecycle management (Scrum, XP)
+- Code review and architecture standards
+- Technical decision-making focused on cost, security, and scalability
+- Clear communication with both technical and non-technical stakeholders
 
 <div align="center">
   
