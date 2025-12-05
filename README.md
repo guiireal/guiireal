@@ -16,7 +16,7 @@ Portfolio: [https://devgui.dev](https://devgui.dev)
 
 I have over 10 years of experience in technology, working end-to-end across digital solution development, data engineering, and technical leadership. My career is marked by the delivery of scalable products, complex integrations, SaaS platforms, and data-driven projects.
 
-Software Developer:
+Software Engineer:
 
 Strong background in understanding business rules, designing solutions, defining architecture, development, testing, and delivery. Experienced in building:
 
