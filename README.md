@@ -162,7 +162,9 @@ Experience leading development and data teams, ensuring strategic alignment and 
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/AWS-FABF15?style=flat-square&logo=instructure&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=serverless&logoColor=white" alt="Windows Server"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Linux_Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Linux Debian"/>
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Linux Ubuntu"/>
+
 </div>
 
 ### 🗄️ Database
