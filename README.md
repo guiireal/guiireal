@@ -100,6 +100,7 @@ Experience leading development and data teams, ensuring strategic alignment and 
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/> 
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/> 
   <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI"/> 
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=open3d&logoColor=white" alt="OpenCode"/> 
   <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=stackblitz&logoColor=white" alt="Groq"/>  
   <img src="https://img.shields.io/badge/Qwen_CLI-855DCD?style=flat-square&logo=artstation&logoColor=white" alt="Qwen CLI"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
