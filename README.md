@@ -95,14 +95,14 @@ Experience leading development and data teams, ensuring strategic alignment and 
 </div>
 
 ### 🤖 AI
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/Claude_Code-181717?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI"/>
-  <img src="https://img.shields.io/badge/Open_Code-0066FF?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Open Code"/>
-  <img src="https://img.shields.io/badge/Qwen-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Qwen"/>
-  <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&logo=protocol&logoColor=white" alt="MCP"/>
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;"> 
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude_Code-181717?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/> 
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/> 
+  <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI"/> 
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq"/>
+  <img src="https://img.shields.io/badge/Qwen_CLI-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Qwen CLI"/>
+  <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&logo=protocol&logoColor=white" alt="MCP"/> 
 </div>
 
 ### 🔄 Integrations
@@ -184,14 +184,6 @@ Experience leading development and data teams, ensuring strategic alignment and 
 [![Stars](https://img.shields.io/badge/Project%20Stars-1,293-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guiireal)
 [![Uptime](https://img.shields.io/badge/System%20Uptime-99.9%25-green?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/guiireal)
 [![Docs](https://img.shields.io/badge/Documentation%20Pages-384-red?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/guiireal)
-
-## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=guiireal&theme=dracula&column=7)](https://github.com/guiireal)
-
-## 🔥 Contribution Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guiireal&theme=dracula)](https://github.com/guiireal)
 
 ## 📈 Activity Overview
 
