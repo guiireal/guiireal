@@ -14,7 +14,7 @@
 
 Portfolio: [https://devgui.dev](https://devgui.dev)
 
-I have over 10 years of experience in technology, working end-to-end across digital solution development, data engineering, and technical leadership. My career is marked by the delivery of scalable products, complex integrations, SaaS platforms, and data-driven projects.
+I have over 10 years of experience in technology, working end-to-end across digital solution development, data engineering, and technical leadership. My career is marked by the delivery of scalable solutions that combine innovation, efficiency, and measurable business impact.
 
 Software Engineer:
 
@@ -60,16 +60,20 @@ Experience leading development and data teams, ensuring strategic alignment and 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt.js"/>
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=black" alt="Alpine.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
 </div>
 
 ### ⚙️ Back-end
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire"/>
+  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=black" alt="Filament"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Typescript"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
@@ -89,6 +93,17 @@ Experience leading development and data teams, ensuring strategic alignment and 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
 </div>
 
+### 🤖 AI & Machine Learning
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/Claude_Code-181717?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Qwen-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Qwen"/>
+  <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI"/>
+  <img src="https://img.shields.io/badge/Open_Code-0066FF?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Open Code"/>
+  <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&logo=protocol&logoColor=white" alt="MCP"/>
+</div>
+
 ### 🔄 Integrations
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/API_REST-E6484F?style=flat-square&logo=fastapi&logoColor=white" alt="REST"/>
@@ -100,6 +115,7 @@ Experience leading development and data teams, ensuring strategic alignment and 
 ### 🧪 Test
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/PHP_Unit-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP Unit"/>
   <img src="https://img.shields.io/badge/Pest_PHP-EF2D5E?style=flat-square&logo=laravel&logoColor=white" alt="Pest"/>
@@ -129,7 +145,8 @@ Experience leading development and data teams, ensuring strategic alignment and 
 ### ☁️ Infrastructure
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=serverless&logoColor=white" alt="Windows Server"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
