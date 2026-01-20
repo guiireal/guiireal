@@ -160,6 +160,7 @@ Experience leading development and data teams, ensuring strategic alignment and 
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/AWS-FABF15?style=flat-square&logo=instructure&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=serverless&logoColor=white" alt="Windows Server"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
 </div>
