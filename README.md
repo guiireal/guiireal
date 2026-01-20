@@ -93,14 +93,14 @@ Experience leading development and data teams, ensuring strategic alignment and 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
 </div>
 
-### 🤖 AI & Machine Learning
+### 🤖 AI
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Claude_Code-181717?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
   <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Qwen-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Qwen"/>
   <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI"/>
   <img src="https://img.shields.io/badge/Open_Code-0066FF?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Open Code"/>
+  <img src="https://img.shields.io/badge/Qwen-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Qwen"/>
   <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&logo=protocol&logoColor=white" alt="MCP"/>
 </div>
 
