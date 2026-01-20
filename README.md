@@ -2,7 +2,7 @@
 
 # Hello world!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-guiireal.com-4f39f6?style=for-the-badge&logo=safari&logoColor=white)](https://devgui.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devgui.dev-4f39f6?style=for-the-badge&logo=safari&logoColor=white)](https://devgui.dev)
 
 </div>
 
