@@ -54,7 +54,7 @@ Experience leading development and data teams, ensuring strategic alignment and 
 ### 🎨 Front-end
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Javascript"/>
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black" alt="ReactJS"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
@@ -96,19 +96,19 @@ Experience leading development and data teams, ensuring strategic alignment and 
 
 ### 🤖 AI
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;"> 
-  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
-  <img src="https://img.shields.io/badge/Claude_Code-181717?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/> 
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openaigym&logoColor=white" alt="Codex"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/> 
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/> 
   <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI"/> 
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq"/>
-  <img src="https://img.shields.io/badge/Qwen_CLI-FF6A00?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white" alt="Qwen CLI"/>
-  <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=stackblitz&logoColor=white" alt="Groq"/>  
+  <img src="https://img.shields.io/badge/Qwen_CLI-855DCD?style=flat-square&logo=artstation&logoColor=white" alt="Qwen CLI"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
 </div>
 
 ### 🔄 Integrations
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/API_REST-E6484F?style=flat-square&logo=fastapi&logoColor=white" alt="REST"/>
-  <img src="https://img.shields.io/badge/API_SOAP-008FCC?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white" alt="SOAP"/>
+  <img src="https://img.shields.io/badge/API_SOAP-008FCC?style=flat-square&logo=xml&logoColor=white" alt="SOAP"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket"/>
   <img src="https://img.shields.io/badge/n8n-0B8B8B?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
@@ -119,7 +119,7 @@ Experience leading development and data teams, ensuring strategic alignment and 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=polestar&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/PHP_Unit-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP Unit"/>
@@ -139,7 +139,7 @@ Experience leading development and data teams, ensuring strategic alignment and 
   <img src="https://img.shields.io/badge/TDD-2088FF?style=flat-square&logo=checkmarx&logoColor=white" alt="TDD"/>
   <img src="https://img.shields.io/badge/DDD-FC6D26?style=flat-square&logo=databricks&logoColor=white" alt="DDD"/>
   <img src="https://img.shields.io/badge/SOLID-FF9A00?style=flat-square&logo=stackblitz&logoColor=white" alt="SOLID"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-A9225C?style=flat-square&logo=architecture&logoColor=white" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-A9225C?style=flat-square&logo=claris&logoColor=white" alt="Clean Architecture"/>
   <img src="https://img.shields.io/badge/Clean_Code-004088?style=flat-square&logo=codacy&logoColor=white" alt="Clean Code"/>
 </div>
 
@@ -154,6 +154,8 @@ Experience leading development and data teams, ensuring strategic alignment and 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=nginx&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
