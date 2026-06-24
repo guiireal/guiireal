@@ -103,7 +103,10 @@ Experience leading development and data teams, ensuring strategic alignment and 
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity"/> 
   <img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=open3d&logoColor=white" alt="OpenCode"/> 
   <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=stackblitz&logoColor=white" alt="Groq"/>  
-  <img src="https://img.shields.io/badge/Qwen_CLI-855DCD?style=flat-square&logo=artstation&logoColor=white" alt="Qwen CLI"/>
+  <img src="https://img.shields.io/badge/Qwen-855DCD?style=flat-square&logo=artstation&logoColor=white" alt="Qwen"/>
+  <img src="https://img.shields.io/badge/DeepSeek-007FFF?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/Kimi-4E75EC?style=flat-square&logo=confluence&logoColor=white" alt="Kimi"/>
+  <img src="https://img.shields.io/badge/GLM-1F2937?style=flat-square&logo=knowledgebase&logoColor=white" alt="GLM"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
   <img src="https://img.shields.io/badge/Skills-FF9900?style=flat-square&logo=probot&logoColor=white" alt="Skills"/>
 </div>
