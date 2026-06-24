@@ -126,7 +126,6 @@ Experience leading development and data teams, ensuring strategic alignment and 
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=polestar&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/PHP_Unit-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP Unit"/>
   <img src="https://img.shields.io/badge/Pest_PHP-EF2D5E?style=flat-square&logo=laravel&logoColor=white" alt="Pest"/>
