@@ -105,7 +105,7 @@ Experience leading development and data teams, ensuring strategic alignment and 
   <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=stackblitz&logoColor=white" alt="Groq"/>  
   <img src="https://img.shields.io/badge/Qwen_CLI-855DCD?style=flat-square&logo=artstation&logoColor=white" alt="Qwen CLI"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
-  <img src="https://img.shields.io/badge/Skills-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Skills"/>
+  <img src="https://img.shields.io/badge/Skills-FF9900?style=flat-square&logo=probot&logoColor=white" alt="Skills"/>
 </div>
 
 ### 🔄 Integrations
