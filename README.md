@@ -40,7 +40,7 @@ Tech Lead:
 
 Experience leading development and data teams, ensuring strategic alignment and high-quality technical execution:
 
-- System lifecycle management (Scrum, XP)
+- Project lifecycle management and systems development (Scrum, XP)
 - Code review and architecture standards
 - Technical decision-making focused on cost, security, and scalability
 - Clear communication with both technical and non-technical stakeholders
