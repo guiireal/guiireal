@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hey, I'm Dev Gui 👋
+# Dev Gui
 
-**Software Engineer & Tech Lead (10+ yrs) • Founder & Builder @ Takeshi Bot & Spider API**
-
-Scaling digital products, data ecosystems, and AI-powered automations.
+Software Engineer & Tech Lead (10+ yrs) · Founder & Builder
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devgui.dev-4f39f6?style=for-the-badge&logo=safari&logoColor=white)](https://devgui.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guiireal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiireal)
@@ -15,18 +13,17 @@ Scaling digital products, data ecosystems, and AI-powered automations.
 
 ---
 
-### 🚀 About Me
+### About
 
-- 🔭 **Currently:** Leading engineering teams and architecting scalable SaaS, data platforms, and AI agents.
-- 🛠️ **Building:** **[Takeshi Bot](https://github.com/guiireal/takeshi-bot)** & **[Spider API](https://api.spiderx.com.br/)** — high-scale automation and integration products.
-- 🧠 **Focus Areas:** Software Architecture (DDD, Clean Arch), Data Engineering (ETL/ELT, DW), Applied AI (LLMs, MCP, Agents), and Technical Leadership.
-- 🌐 **Portfolio & Contact:** [devgui.dev](https://devgui.dev) • [linkedin.com/in/guiireal](https://www.linkedin.com/in/guiireal)
+Engineering lead and software architect with over 10 years shipping web platforms, data pipelines, and AI automations.
+
+Currently leading development teams and building independent SaaS and automation products. Focused on system architecture, data engineering (ETL/ELT, DW), and applied AI (LLMs, MCP, agents).
+
+More at [devgui.dev](https://devgui.dev).
 
 ---
 
-### ⚡ Core Tech Stack
-
-> Focused on the technologies I rely on daily to ship and scale production systems.
+### Core Stack
 
 **Languages & Frameworks**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -42,10 +39,10 @@ Scaling digital products, data ecosystems, and AI-powered automations.
 
 **AI & Automation**  
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openaigym&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-007FFF?style=flat-square&logo=deepseek&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=stackblitz&logoColor=white)
 
 **Data & Infrastructure**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -59,7 +56,7 @@ Scaling digital products, data ecosystems, and AI-powered automations.
 
 ---
 
-### 📊 GitHub Activity
+### Activity
 
 <div align="center">
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiireal&theme=dracula" />
