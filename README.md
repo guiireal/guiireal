@@ -7,7 +7,9 @@
 Scaling digital products, data ecosystems, and AI-powered automations.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devgui.dev-4f39f6?style=for-the-badge&logo=safari&logoColor=white)](https://devgui.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiireal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guiireal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiireal)
+[![Takeshi Bot](https://img.shields.io/badge/Takeshi_Bot-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guiireal/takeshi-bot)
+[![Spider API](https://img.shields.io/badge/Spider_API-Platform-FF5722?style=for-the-badge&logo=fastapi&logoColor=white)](https://api.spiderx.com.br/)
 
 </div>
 
@@ -16,9 +18,9 @@ Scaling digital products, data ecosystems, and AI-powered automations.
 ### 🚀 About Me
 
 - 🔭 **Currently:** Leading engineering teams and architecting scalable SaaS, data platforms, and AI agents.
-- 🛠️ **Building:** **[Takeshi Bot](https://github.com/guiireal)** & **[Spider API](https://github.com/guiireal)** — high-scale automation and integration products.
+- 🛠️ **Building:** **[Takeshi Bot](https://github.com/guiireal/takeshi-bot)** & **[Spider API](https://api.spiderx.com.br/)** — high-scale automation and integration products.
 - 🧠 **Focus Areas:** Software Architecture (DDD, Clean Arch), Data Engineering (ETL/ELT, DW), Applied AI (LLMs, MCP, Agents), and Technical Leadership.
-- 🌐 **More about my work:** [devgui.dev](https://devgui.dev)
+- 🌐 **Portfolio & Contact:** [devgui.dev](https://devgui.dev) • [linkedin.com/in/guiireal](https://www.linkedin.com/in/guiireal)
 
 ---
 
