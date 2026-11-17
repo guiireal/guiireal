@@ -6,8 +6,6 @@ Software Engineer & Tech Lead (10+ yrs) · Founder & Builder
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devgui.dev-4f39f6?style=for-the-badge&logo=safari&logoColor=white)](https://devgui.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guiireal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiireal)
-[![Takeshi Bot](https://img.shields.io/badge/Takeshi_Bot-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guiireal/takeshi-bot)
-[![Spider API](https://img.shields.io/badge/Spider_API-Platform-FF5722?style=for-the-badge&logo=fastapi&logoColor=white)](https://api.spiderx.com.br/)
 
 </div>
 
@@ -17,7 +15,7 @@ Software Engineer & Tech Lead (10+ yrs) · Founder & Builder
 
 Engineering lead and software architect with over 10 years shipping web platforms, data pipelines, and AI automations.
 
-Currently leading development teams and building independent SaaS and automation products. Focused on system architecture, data engineering (ETL/ELT, DW), and applied AI (LLMs, MCP, agents).
+Currently leading development teams and building **[Takeshi Bot](https://github.com/guiireal/takeshi-bot)** and **[Spider API](https://api.spiderx.com.br/)**. Focused on system architecture, data engineering (ETL/ELT, DW), and applied AI (LLMs, MCP, agents).
 
 More at [devgui.dev](https://devgui.dev).
 
