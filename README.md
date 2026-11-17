@@ -7,7 +7,7 @@
 Scaling digital products, data ecosystems, and AI-powered automations.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devgui.dev-4f39f6?style=for-the-badge&logo=safari&logoColor=white)](https://devgui.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiireal)
 
 </div>
 
