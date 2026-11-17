@@ -13,7 +13,7 @@ Software Engineer & Tech Lead (10+ yrs) · Founder & Builder
 
 ### About
 
-Engineering lead and software architect with over 10 years shipping web platforms, data pipelines, and AI automations.
+Engineering lead and software architect with over 10 years shipping web platforms, data pipelines, and now, AI automations.
 
 Currently leading development teams and building **[Takeshi Bot](https://github.com/guiireal/takeshi-bot)** and **[Spider API](https://api.spiderx.com.br/)**. Focused on system architecture, data engineering (ETL/ELT, DW), and applied AI (LLMs, MCP, agents).
 
